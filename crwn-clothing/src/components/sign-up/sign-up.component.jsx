@@ -50,7 +50,7 @@ class SignUp extends React.Component {
 
   handleChange = event => {
     const { name, value } = event.target;
-
+    //here name refer to FormInput->name
     this.setState({ [name]: value });
   };
 
