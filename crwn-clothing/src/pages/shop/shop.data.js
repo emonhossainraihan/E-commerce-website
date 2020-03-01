@@ -21,7 +21,7 @@ const Shop_Data = [
           name: 'Brown Cowboy',
           imageUrl: 'https://i.ibb.co/QdJwgmp/brown-cowboy.png',
           price: 35
-        },
+        }, 
         {
           id: 4,
           name: 'Grey Brim',
